@@ -1,0 +1,4 @@
+0,Sladoled,10,Quattro,0,2,5.56663e+008
+1,Supa,5,Kokosija,1,1,5.56663e+008
+2,Riza,8,Dugo zrno ,1,2,5.56663e+008
+3,Jabuka,50,gala,1,2,200
